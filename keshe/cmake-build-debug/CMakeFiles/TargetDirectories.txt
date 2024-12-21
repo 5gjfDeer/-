@@ -1,0 +1,3 @@
+C:/Users/asada/Desktop/C/keshe/cmake-build-debug/CMakeFiles/keshe.dir
+C:/Users/asada/Desktop/C/keshe/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/asada/Desktop/C/keshe/cmake-build-debug/CMakeFiles/rebuild_cache.dir
